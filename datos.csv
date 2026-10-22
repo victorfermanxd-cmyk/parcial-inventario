@@ -1,0 +1,61 @@
+﻿ID_Producto,Producto,Categoria,Sucursal,Cantidad,Precio_Unitario_USD,Valor_Inventario_USD
+P001,Disco duro externo 2TB,Almacenamiento,San Salvador,40,96.33,3853.2
+P002,Mouse inalámbrico,Accesorios,Santa Ana,5,12.64,63.2
+P003,Audífonos Bluetooth,Audio,San Miguel,51,32.12,1638.12
+P004,Teclado mecánico,Accesorios,La Libertad,95,43.34,4117.3
+P005,Impresora multifuncional,Oficina,Sonsonate,4,140.15,560.6
+P006,Impresora multifuncional,Oficina,San Salvador,6,138.14,828.84
+P007,Tablet 10 pulgadas,Tecnología,Santa Ana,66,208.02,13729.32
+P008,Router Wi-Fi,Redes,San Miguel,83,40.1,3328.3
+P009,Disco SSD 1TB,Almacenamiento,La Libertad,10,75.24,752.4
+P010,Laptop Lenovo IdeaPad,Tecnología,Sonsonate,13,529.85,6888.05
+P011,Cable HDMI 2m,Accesorios,San Salvador,30,7.66,229.8
+P012,Disco SSD 1TB,Almacenamiento,Santa Ana,75,80.43,6032.25
+P013,Disco SSD 1TB,Almacenamiento,San Miguel,76,75.95,5772.2
+P014,Disco SSD 1TB,Almacenamiento,La Libertad,76,74.12,5633.12
+P015,Impresora multifuncional,Oficina,Sonsonate,25,148.79,3719.75
+P016,Cable HDMI 2m,Accesorios,San Salvador,60,7.4,444.0
+P017,Teclado mecánico,Accesorios,Santa Ana,26,46.61,1211.86
+P018,Router Wi-Fi,Redes,San Miguel,44,39.81,1751.64
+P019,Router Wi-Fi,Redes,La Libertad,28,39.39,1102.92
+P020,Mouse inalámbrico,Accesorios,Sonsonate,15,12.39,185.85
+P021,Cable HDMI 2m,Accesorios,San Salvador,38,7.63,289.94
+P022,Memoria USB 64GB,Almacenamiento,Santa Ana,78,9.55,744.9
+P023,Disco SSD 1TB,Almacenamiento,San Miguel,39,78.39,3057.21
+P024,Disco duro externo 2TB,Almacenamiento,La Libertad,61,92.54,5644.94
+P025,Memoria USB 64GB,Almacenamiento,Sonsonate,22,9.29,204.38
+P026,Bocina portátil,Audio,San Salvador,18,25.62,461.16
+P027,Regulador de voltaje,Energía,Santa Ana,66,21.31,1406.46
+P028,Router Wi-Fi,Redes,San Miguel,21,40.96,860.16
+P029,Cable HDMI 2m,Accesorios,La Libertad,15,7.64,114.6
+P030,Teclado mecánico,Accesorios,Sonsonate,60,47.57,2854.2
+P031,Laptop Lenovo IdeaPad,Tecnología,San Salvador,15,513.35,7700.25
+P032,Teclado mecánico,Accesorios,Santa Ana,31,46.01,1426.31
+P033,Monitor 24 pulgadas,Tecnología,San Miguel,10,165.76,1657.6
+P034,Impresora multifuncional,Oficina,La Libertad,14,142.32,1992.48
+P035,Bocina portátil,Audio,Sonsonate,51,24.97,1273.47
+P036,Laptop Lenovo IdeaPad,Tecnología,San Salvador,10,517.88,5178.8
+P037,Monitor 24 pulgadas,Tecnología,Santa Ana,61,173.92,10609.12
+P038,Monitor 24 pulgadas,Tecnología,San Miguel,14,157.15,2200.1
+P039,Router Wi-Fi,Redes,La Libertad,86,37.45,3220.7
+P040,Router Wi-Fi,Redes,Sonsonate,74,40.46,2994.04
+P041,Memoria USB 64GB,Almacenamiento,San Salvador,15,9.66,144.9
+P042,Disco duro externo 2TB,Almacenamiento,Santa Ana,4,91.39,365.56
+P043,Disco SSD 1TB,Almacenamiento,San Miguel,87,81.67,7105.29
+P044,Regulador de voltaje,Energía,La Libertad,24,23.04,552.96
+P045,Tablet 10 pulgadas,Tecnología,Sonsonate,55,199.15,10953.25
+P046,Regulador de voltaje,Energía,San Salvador,84,22.65,1902.6
+P047,Router Wi-Fi,Redes,Santa Ana,40,38.65,1546.0
+P048,Memoria USB 64GB,Almacenamiento,San Miguel,74,9.88,731.12
+P049,Laptop Lenovo IdeaPad,Tecnología,La Libertad,5,490.38,2451.9
+P050,Teclado mecánico,Accesorios,Sonsonate,45,47.51,2137.95
+P051,Tablet 10 pulgadas,Tecnología,San Salvador,58,203.66,11812.28
+P052,Webcam HD,Accesorios,Santa Ana,13,27.46,356.98
+P053,Tablet 10 pulgadas,Tecnología,San Miguel,72,200.26,14418.72
+P054,Disco duro externo 2TB,Almacenamiento,La Libertad,74,97.05,7181.7
+P055,Bocina portátil,Audio,Sonsonate,60,26.46,1587.6
+P056,Memoria USB 64GB,Almacenamiento,San Salvador,3,9.56,28.68
+P057,Laptop Lenovo IdeaPad,Tecnología,Santa Ana,14,501.5,7021.0
+P058,Webcam HD,Accesorios,San Miguel,6,26.9,161.4
+P059,Impresora multifuncional,Oficina,La Libertad,57,152.91,8715.87
+P060,Audífonos Bluetooth,Audio,Sonsonate,92,31.14,2864.88
